@@ -1,0 +1,370 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Ananya Sen",
+      "email": "ananya.sen@jis.edu",
+      "passwordHash": "$2a$10$W65R8KxKzscS9Ea0T9XU9OF2fRscgC7X8aMHeZ.1xM.sZ8H8XmUo2",
+      "department": "CSE",
+      "semester": "6th",
+      "subjects": [
+        "Data Structures",
+        "Web Development",
+        "Operating Systems"
+      ],
+      "goals": "Prepare for JIS campus hackathon and upcoming semester exams.",
+      "learningStyle": "Visual",
+      "availability": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday",
+          "Saturday"
+        ],
+        "times": [
+          "Afternoon",
+          "Evening"
+        ]
+      },
+      "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ananya",
+      "streakDays": 8,
+      "lastActiveDate": "2026-05-23T18:22:49.315Z",
+      "isAdmin": false,
+      "createdAt": "2026-04-23T18:22:49.316Z"
+    },
+    {
+      "id": "u2",
+      "name": "Rohit Das",
+      "email": "rohit.das@jis.edu",
+      "passwordHash": "$2a$10$W65R8KxKzscS9Ea0T9XU9OF2fRscgC7X8aMHeZ.1xM.sZ8H8XmUo2",
+      "department": "IT",
+      "semester": "4th",
+      "subjects": [
+        "Database Systems",
+        "Core Java",
+        "Discrete Mathematics"
+      ],
+      "goals": "Looking to clear doubts in SQL normalizations and join a steady group.",
+      "learningStyle": "Kinesthetic",
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Saturday",
+          "Sunday"
+        ],
+        "times": [
+          "Morning",
+          "Evening"
+        ]
+      },
+      "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rohit",
+      "streakDays": 5,
+      "lastActiveDate": "2026-05-23T18:22:49.316Z",
+      "isAdmin": false,
+      "createdAt": "2026-04-28T18:22:49.316Z"
+    },
+    {
+      "id": "u3",
+      "name": "Priyanka Roy",
+      "email": "priyanka.roy@jis.edu",
+      "passwordHash": "$2a$10$W65R8KxKzscS9Ea0T9XU9OF2fRscgC7X8aMHeZ.1xM.sZ8H8XmUo2",
+      "department": "ECE",
+      "semester": "6th",
+      "subjects": [
+        "Microprocessors",
+        "Web Development",
+        "Digital Communication"
+      ],
+      "goals": "Acing the labs and collaborative project development.",
+      "learningStyle": "Auditory",
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Thursday"
+        ],
+        "times": [
+          "Evening"
+        ]
+      },
+      "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priyanka",
+      "streakDays": 12,
+      "lastActiveDate": "2026-05-23T18:22:49.316Z",
+      "isAdmin": false,
+      "createdAt": "2026-04-13T18:22:49.316Z"
+    },
+    {
+      "id": "u_admin",
+      "name": "Prof. S. Ghosal (JIS Admin)",
+      "email": "admin@jis.edu",
+      "passwordHash": "$2a$10$W65R8KxKzscS9Ea0T9XU9OF2fRscgC7X8aMHeZ.1xM.sZ8H8XmUo2",
+      "department": "CSE",
+      "semester": "Faculty",
+      "subjects": [
+        "All Subjects"
+      ],
+      "goals": "Oversee university-wide study collaboration dashboard.",
+      "learningStyle": "Reading/Writing",
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "times": [
+          "Morning",
+          "Afternoon"
+        ]
+      },
+      "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Admin",
+      "streakDays": 45,
+      "lastActiveDate": "2026-05-23T18:22:49.316Z",
+      "isAdmin": true,
+      "createdAt": "2026-02-12T18:22:49.316Z"
+    },
+    {
+      "id": "u_mdwxoof8w",
+      "name": "Subham",
+      "email": "subham.shaw0107@gmail.com",
+      "passwordHash": "$2b$10$HHcAYJJWCIssWlfPlBdmduMkHUTZmkqMPODG9q5gVY7EdSISjU5rK",
+      "department": "CSE",
+      "semester": "6th",
+      "subjects": [
+        "Data Structures",
+        "Web Development"
+      ],
+      "goals": "",
+      "learningStyle": "Visual",
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "times": [
+          "Evening"
+        ]
+      },
+      "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Subham",
+      "streakDays": 1,
+      "lastActiveDate": "2026-05-23T18:48:48.056Z",
+      "isAdmin": false,
+      "createdAt": "2026-05-23T18:48:48.056Z"
+    },
+    {
+      "id": "u_cl6umcftg",
+      "name": "subham shaw",
+      "email": "shawsunilkr@gmailcom",
+      "passwordHash": "$2b$10$a.H5ENSWbbBcsU2EZR20.O5gkrRsn5OHNMJg/97JPiNhSNqq2QDBK",
+      "department": "CSE",
+      "semester": "2nd",
+      "subjects": [
+        "Data Structures"
+      ],
+      "goals": "",
+      "learningStyle": "Reading/Writing",
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "times": [
+          "Evening"
+        ]
+      },
+      "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=subham%20shaw",
+      "streakDays": 1,
+      "lastActiveDate": "2026-05-24T05:43:30.020Z",
+      "isAdmin": false,
+      "createdAt": "2026-05-24T05:43:30.020Z"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "name": "JIS Web Dev Titans",
+      "subject": "Web Development",
+      "department": "CSE",
+      "semester": "6th",
+      "learningStyle": "Visual",
+      "description": "A target-driven study group looking to master React + Tailwind for the upcoming JIS TechFest hackathon. We focus on building real-world projects and solving challenges.",
+      "rules": "No spamming and join the group calls regularly. Shared learning resources must be relevant to the syllabus.",
+      "creatorId": "u1",
+      "members": [
+        "u1",
+        "u3",
+        "u2"
+      ],
+      "resources": [
+        {
+          "id": "r1",
+          "title": "Vite + React Quickstart Guide for JIS TechFest",
+          "url": "https://react.dev",
+          "sharedBy": "Ananya Sen",
+          "sharedByUserId": "u1",
+          "timestamp": "2026-05-20T18:22:49.316Z"
+        },
+        {
+          "id": "r2",
+          "title": "Tailwind CSS Layout Cheat Sheet",
+          "url": "https://tailwindcss.com",
+          "sharedBy": "Priyanka Roy",
+          "sharedByUserId": "u3",
+          "timestamp": "2026-05-21T18:22:49.316Z"
+        }
+      ],
+      "isOnline": true,
+      "createdAt": "2026-05-13T18:22:49.316Z"
+    },
+    {
+      "id": "g2",
+      "name": "Discrete Maths Doubts Crackers",
+      "subject": "Discrete Mathematics",
+      "department": "IT",
+      "semester": "4th",
+      "learningStyle": "Kinesthetic",
+      "description": "Struggling with Set Theory and Graph Proofs? We study twice a week, solving textbook exercises step-by-step.",
+      "rules": "Participate in doubt solving. Help one student before asking your question.",
+      "creatorId": "u2",
+      "members": [
+        "u2",
+        "u1"
+      ],
+      "resources": [
+        {
+          "id": "r3",
+          "title": "Graph Theory Lecture Slides (Prof. Roy)",
+          "url": "https://arxiv.org",
+          "sharedBy": "Rohit Das",
+          "sharedByUserId": "u2",
+          "timestamp": "2026-05-22T18:22:49.316Z"
+        }
+      ],
+      "isOnline": false,
+      "createdAt": "2026-05-18T18:22:49.316Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "m1",
+      "groupId": "g1",
+      "senderId": "u1",
+      "senderName": "Ananya Sen",
+      "text": "Hey everyone! Welcome to the JIS Web Dev Titans study group! Ready to design our hackathon project?",
+      "timestamp": "2026-05-23T16:22:49.316Z"
+    },
+    {
+      "id": "m2",
+      "groupId": "g1",
+      "senderId": "u3",
+      "senderName": "Priyanka Roy",
+      "text": "Yes, Ananya! Let's schedule a study session for Monday evening regarding React state management.",
+      "timestamp": "2026-05-23T17:22:49.316Z"
+    },
+    {
+      "id": "m3",
+      "groupId": "g1",
+      "senderId": "u2",
+      "senderName": "Rohit Das",
+      "text": "I uploaded the Tailwind guide in our resources! Let me know if you guys find it helpful.",
+      "timestamp": "2026-05-23T18:07:49.316Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "n1",
+      "userId": "u1",
+      "text": "Rohit Das has requested to join your study group 'JIS Web Dev Titans'.",
+      "type": "request",
+      "relativeId": "g1",
+      "read": false,
+      "timestamp": "2026-05-23T06:22:49.316Z"
+    },
+    {
+      "id": "n2",
+      "userId": "u2",
+      "text": "Ananya Sen accepted your join request for 'JIS Web Dev Titans'!",
+      "type": "accept",
+      "relativeId": "g1",
+      "read": true,
+      "timestamp": "2026-05-23T17:22:49.316Z"
+    },
+    {
+      "id": "n_2job2m1qx",
+      "userId": "u1",
+      "text": "Subham requested to join your study group \"JIS Web Dev Titans\".",
+      "type": "request",
+      "relativeId": "g1",
+      "read": false,
+      "timestamp": "2026-05-23T18:49:40.821Z"
+    },
+    {
+      "id": "n_x4m62lk5u",
+      "userId": "u2",
+      "text": "Subham requested to join your study group \"Discrete Maths Doubts Crackers\".",
+      "type": "request",
+      "relativeId": "g2",
+      "read": false,
+      "timestamp": "2026-05-23T18:49:55.882Z"
+    },
+    {
+      "id": "n_bmyy4znn8",
+      "userId": "u1",
+      "text": "subham shaw requested to join your study group \"JIS Web Dev Titans\".",
+      "type": "request",
+      "relativeId": "g1",
+      "read": false,
+      "timestamp": "2026-05-24T05:44:34.486Z"
+    }
+  ],
+  "requests": [
+    {
+      "id": "req1",
+      "groupId": "g1",
+      "groupName": "JIS Web Dev Titans",
+      "requesterId": "u2",
+      "requesterName": "Rohit Das",
+      "type": "join",
+      "status": "accepted",
+      "timestamp": "2026-05-23T14:22:49.316Z"
+    },
+    {
+      "id": "req_uozya71hp",
+      "groupId": "g1",
+      "groupName": "JIS Web Dev Titans",
+      "requesterId": "u_mdwxoof8w",
+      "requesterName": "Subham",
+      "type": "join",
+      "status": "pending",
+      "timestamp": "2026-05-23T18:49:40.818Z"
+    },
+    {
+      "id": "req_1oxr0zmxs",
+      "groupId": "g2",
+      "groupName": "Discrete Maths Doubts Crackers",
+      "requesterId": "u_mdwxoof8w",
+      "requesterName": "Subham",
+      "type": "join",
+      "status": "pending",
+      "timestamp": "2026-05-23T18:49:55.879Z"
+    },
+    {
+      "id": "req_mb9xlgnm1",
+      "groupId": "g1",
+      "groupName": "JIS Web Dev Titans",
+      "requesterId": "u_cl6umcftg",
+      "requesterName": "subham shaw",
+      "type": "join",
+      "status": "pending",
+      "timestamp": "2026-05-24T05:44:34.484Z"
+    }
+  ]
+}

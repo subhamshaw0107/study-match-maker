@@ -1,0 +1,6 @@
+{
+  "name": "Study Group Matcher for JIS",
+  "description": "A modern study partner and group matching platform for JIS university students, featuring smart compatibility matching, real-time collaboration, streak tracker, notes sharing, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
