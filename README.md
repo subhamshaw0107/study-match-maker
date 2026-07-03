@@ -1,6 +1,6 @@
 # Study Group Matcher for JIS 🎓🤝
 
-A modern, responsive full-stack collegiate web platform built for students at **JIS University / JIS Group of Institutions**. The application matches classmates into highly compatible study groups based on departments, semesters, focused subjects, learning styles, and schedule availability,testing pull sharki achievement.
+A modern, responsive full-stack collegiate web platform built for students at **JIS University / JIS Group of Institutions**. The application matches classmates into highly compatible study groups based on departments, semesters, focused subjects, learning styles, and schedule availability,testing pull shark achievement.
 
 ## 🚀 Key Features Built-in
 
