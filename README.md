@@ -1,6 +1,6 @@
 # Study Group Matcher for JIS 🎓🤝
 
-A modern, responsive full-stack collegiate web platform built for students at **JIS University / JIS Group of Institutions**. The application matches classmates into highly compatible study groups based on departments, semesters, focused subjects, learning styles, and schedule availability,testing pull sharki achievement.
+A modern, responsive full-stack collegiate web platform built for students at **JIS University / JIS Group of Institutions**. The application matches classmates into highly compatible study groups based on departments, semesters, focused subjects, learning styles, and schedule availability,testing pull shark achievement.
 
 ## 🚀 Key Features Built-in
 
@@ -115,4 +115,5 @@ The system is fully modular and MVC schema compliant. To swap the local file dat
 
 - **Whiteboards Integration**: Integrating collaborative canvas sheets (using socket connections or Fabric.js) inside the Study Workspace.
 - **Micro-credential Rewards**: Reward verified digital badges to students matching 15+ consecutive focus timer sessions.
-- **Exams Syllabus AI Grounding**: Integrate process.env.GEMINI_API_KEY inside the groups notes area to summarize user-shared pdf notes instantly,pull shark.
+- **Exams Syllabus AI Grounding**: Integrate process.env.GEMINI_API_KEY inside the groups notes area to summarize user-shared pdf notes instantly,
+second chanmge for pull shark.
