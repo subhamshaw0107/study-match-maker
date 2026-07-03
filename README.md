@@ -116,4 +116,4 @@ The system is fully modular and MVC schema compliant. To swap the local file dat
 - **Whiteboards Integration**: Integrating collaborative canvas sheets (using socket connections or Fabric.js) inside the Study Workspace.
 - **Micro-credential Rewards**: Reward verified digital badges to students matching 15+ consecutive focus timer sessions.
 - **Exams Syllabus AI Grounding**: Integrate process.env.GEMINI_API_KEY inside the groups notes area to summarize user-shared pdf notes instantly,
-this is my secomd pull request
+  secomd pull request
