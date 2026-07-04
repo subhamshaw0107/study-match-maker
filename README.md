@@ -117,4 +117,4 @@ The system is fully modular and MVC schema compliant. To swap the local file dat
 - **Micro-credential Rewards**: Reward verified digital badges to students matching 15+ consecutive focus timer sessions.
 - **Exams Syllabus AI Grounding**: Integrate process.env.GEMINI_API_KEY inside the groups notes area to summarize user-shared pdf notes instantly,
   secomd pull request
-  update read me
+ update badge
